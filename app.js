@@ -1,1 +1,1 @@
-console.log("Ejecutando el sistema")
+let saludo = alert("Ejecutando el sistema");
